@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${WHITE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${WHITE}[+]                  © RevanBotz                [+]${NC}"
+  echo -e "${WHITE}[+]                  © GixszBots                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -21,7 +21,7 @@ display_welcome() {
   echo -e "dilarang keras untuk dikasih gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@revanbotz"
+  echo -e "@gixsz_zzz"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
   echo -e "@revambotz"
   sleep 4
