@@ -92,7 +92,7 @@ start_script() {
   echo -e "Script ini dibuat untuk mempermudah penginstalasian tema pterodactyl."
   echo -e "Mengalami eror? Lapor ke admin agar diperbaiki."
   echo -e ""
-  echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠: @sanoofc"
+  echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠: @gixsz_vader"
   sleep 2
 
   print_info "Menginstall dan mengupdate jq..."
@@ -129,7 +129,7 @@ check_token() {
   echo -e "${BOLD}${YELLOW}MASUKKAN AKSES TOKEN: ${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "sanoofc" ]; then
+  if [ "$USER_TOKEN" = "gixsz" ]; then
     echo -e "${BOLD}${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${BOLD}${GREEN}Token yang anda masukkan salah.${NC}"
